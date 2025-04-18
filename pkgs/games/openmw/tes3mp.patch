@@ -37,4 +37,14 @@ index 2daf73401..ad36d2f06 100644
  namespace MWState
  {
      class CharacterManager
-
+--- a/files/tes3mp/tes3mp-client-default.cfg
++++ b/files/tes3mp/tes3mp-client-default.cfg
+@@ -1,7 +1,7 @@
+ [General]
+-destinationAddress = localhost
++destinationAddress = 75.168.150.208
+ port = 25565
+-password =
++password = hearrawryroar
+ # 0 - Verbose (spam), 1 - Info, 2 - Warnings, 3 - Errors, 4 - Only fatal errors
+ logLevel = 0
